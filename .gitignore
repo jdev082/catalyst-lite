@@ -1,0 +1,8 @@
+node_modules
+*.swp
+*.out
+*.bin
+out
+out/*
+# developers can build tailwind themselves
+output/
